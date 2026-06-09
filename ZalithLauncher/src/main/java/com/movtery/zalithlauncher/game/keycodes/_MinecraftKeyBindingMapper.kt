@@ -85,7 +85,8 @@ fun mapToKeycode(bindingKey: String?, defaultValue: String): List<Int?> {
             }
         }
     }
-    
+}
+}
 /**
  * 将字符串键映射到其对应的控制布局事件标识
  * @return 如果找到映射则返回对应的标识，否则返回 `null`
