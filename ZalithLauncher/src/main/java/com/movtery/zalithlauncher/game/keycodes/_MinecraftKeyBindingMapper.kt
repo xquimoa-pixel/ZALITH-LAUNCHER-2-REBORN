@@ -22,7 +22,7 @@ import com.movtery.zalithlauncher.game.launch.MCOptions
 
 //W
 const val MOVEMENT_FORWARD = "key_key.forward"
-const val MOVEMENT_FORWARD_VALUE = "key.keyboard.w"
+const val MOVEMENT_FORWARD_VALUE = "key.keyboard.w,key.keyboard.up"
 //A
 const val MOVEMENT_LEFT = "key_key.left"
 const val MOVEMENT_LEFT_VALUE = "key.keyboard.a"
